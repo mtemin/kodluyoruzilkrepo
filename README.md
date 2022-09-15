@@ -14,4 +14,4 @@ code .`
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce nereyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)S
+[MIT](https://choosealicense.com/licenses/mit/)
